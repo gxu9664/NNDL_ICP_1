@@ -7,3 +7,6 @@ Write a python program for the following:
 Write a program that accepts a sentence and replace each occurrence of ‘python’ with ‘pythons’.
 
 Use the if statement conditions to write a program to print the letter grade based on an input class score. Use the grading scheme we are using in this class.
+
+Video Link:
+https://drive.google.com/file/d/1Pxts17f-BsWOs7fiL2Mxl7hFXjMsKiN3/view?usp=drive_link
